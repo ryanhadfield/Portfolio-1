@@ -20,10 +20,10 @@ The goal of this project was to create a Portfolio website that renders well on 
 ## Screen Shots
 
 - **Home Page / About Me**
-<img src="Assets/AboutMe.png">
+<img src="https://github.com/ryanhadfield/Week-2-Homework/blob/main/Assets/AboutMe.PNG?raw=true">
 
 - **Portfolio Page**
-<img src="Assets/Portfolio.png">
+<img src="https://github.com/ryanhadfield/Week-2-Homework/blob/main/Assets/Portfolio.PNG?raw=true">
 
 - **Contact Page**
-<img src="Assets/Contact.png">
+<img src="https://github.com/ryanhadfield/Week-2-Homework/blob/main/Assets/Contact.PNG?raw=true">

@@ -14,22 +14,16 @@ The goal of this project was to create a Portfolio website that renders well on 
 
 - Created a About Me, Portfolio, an Contact Page
 - Each page uses a responsive layout and has a navbar and sticky footer.
-- The contact page utilizes a responsive form and 
-- The portfolio page will be upadted as web dev projects are completed.
+- The contact page utilizes a responsive floating lable form.
+- The portfolio page will be updated as web dev projects are completed.
 
 ## Screen Shots
 
 - **Home Page / About Me**
-  : ![Alt][1]
-
-[1]: Assets/AboutMe.png "About Me"
+<img src="Assets/AboutMe.png">
 
 - **Portfolio Page**
-  : ![Alt][2]
-
-[2]: Assets/Portfolio.png "Portfolio"
+<img src="Assets/Portfolio.png">
 
 - **Contact Page**
-  : ![Alt][3]
-
-[3]: Assets/Contact.png "Contact"
+<img src="Assets/Contact.png">

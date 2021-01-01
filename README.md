@@ -4,7 +4,7 @@ The goal of this project was to create a Portfolio website that renders well on 
 
 ## Objectives
 
-- Create the following files files: index.html, portfolio.html and contact.html.
+- Create the following files: index.html, portfolio.html, and contact.html.
 - Using Bootstrap, develop a portfolio site with the following items:
   - A navbar
   - A responsive layout
@@ -12,9 +12,9 @@ The goal of this project was to create a Portfolio website that renders well on 
 
 ## Execution
 
-- Created a About Me, Portfolio, an Contact Page
+- Created an About Me, Portfolio, an Contact Page
 - Each page uses a responsive layout and has a navbar and sticky footer.
-- The contact page utilizes a responsive floating lable form.
+- The contact page utilizes a responsive floating label form.
 - The portfolio page will be updated as web dev projects are completed.
 
 ## Screen Shots

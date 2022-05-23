@@ -17,6 +17,8 @@ The goal of this project was to create a Portfolio website that renders well on 
 - The contact page utilizes a responsive floating label form.
 - The portfolio page will be updated as web dev projects are completed.
 
+Link to app: https://ryanhadfield.github.io/Portfolio-1/
+
 ## Screen Shots
 
 - **Home Page / About Me**
